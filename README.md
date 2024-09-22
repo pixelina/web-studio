@@ -1,19 +1,27 @@
-# web_studio
+# WebStudio
+ОПИС ПРОЕКТУ
 
-## Project setup
-```
-npm install
-```
+Реалізовано верстку головної сторінки проекту WebStudio.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<hr>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+ІНСТРУКЦІЯ З РОЗГОРТАННЯ
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1.  Завантажити проект із репозиторія та розархівувати його.
+2.  Відкрити розархівований проект в текстовому редакторі (наприклад VS Code).
+3.  В терміналі кореня директорії прописати npm install (необхідний встановлений node.js що містить npm).
+4.  Зачекати встановлення бібліотек і залежностей.
+5.  Ввести в терміналі команду npm run serve та відкрити проект в браузері по посиланню.
+
+<hr>
+
+ПЕРЕЛІК ЗАСОБІВ РЕАЛІЗАЦІЇ
+
+* Vue-3.js + HTML5 + BEM + SCSS
+
+<hr>
+
+КОНТАКТИ
+
+1. Telegram: @p_mysiura
+3. eMail: polinaromanivna99@gmail.com
